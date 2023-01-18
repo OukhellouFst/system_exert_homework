@@ -1,8 +1,8 @@
 % Define the different programming languages and their characteristics
-langage(1, "C", low_level, system_programming).
-langage(2, "Python", high_level, general_purpose).
-langage(3, "Java", high_level, general_purpose).
-langage(4, "Prolog", high_level, logic_programming).
+language(1, "C", low_level, system_programming).
+language(2, "Python", high_level, general_purpose).
+language(3, "Java", high_level, general_purpose).
+language(4, "Prolog", high_level, logic_programming).
 
 % Define the questions and their corresponding answers
 question(1, "What type of language do you need? [1] Low-level [2] High-level [3] Logic-based ").
