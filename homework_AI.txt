@@ -1,0 +1,13 @@
+==================================
+this will be the knowledge base 
+=================================
+1- First prompt ( principle) will start by priniting the welcoming message [ we will print the attended use of this software ] 
+
+2- Secondly our program will print to the user a list of choices ( each choice in the prompt will printed starting by a number 0- I want learn for my kids ... )
+ 
+3-And base on the number inserted by the user will proceed by asking the user another question related to the previous answer , etc... 
+
+4- We can enrich this simple program by adding more relevant questions so we can determine exactly what language fit the needs of the user .
+
+=======================================
+=======================================
